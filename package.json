@@ -1,5 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Dogan Can Irmak",
+	"description": "A project that does something awesome",
+
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -10,6 +13,5 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	},
-	"author": "Dogan Can Irmak"
+	}
 }
