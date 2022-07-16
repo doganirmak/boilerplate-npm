@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Dogan Can Irmak",
+	"keywords": [ "freecodecamp", "related", "words" ],
 	"description": "A project that does something awesome",
 
 	"dependencies": {
