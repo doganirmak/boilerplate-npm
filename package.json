@@ -3,9 +3,11 @@
 	"author": "Dogan Can Irmak",
 	"keywords": [ "freecodecamp", "related", "words" ],
 	"description": "A project that does something awesome",
-
+	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "2.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
